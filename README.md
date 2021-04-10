@@ -1,6 +1,4 @@
-# MutliModal_Prediction_NLD
-
-Using Multimodal Deep Learning to accurately Predict Parkinson's Disorder (PD).
+# Using Multimodal Deep Learning to accurately Predict Parkinson's Disorder (PD).
 
 ## Motivation
 
