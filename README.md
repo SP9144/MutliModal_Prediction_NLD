@@ -11,3 +11,7 @@ We are using the PPMI dataset [(PPMI)](https://www.michaeljfox.org/news/parkinso
 * Healthy Controls (C) = 213
 * Parkinson's Disorder (PD) = 422
 * Scans Without Evidence for Dopaminergic Deficit (SWEDD) = 81
+
+### Genetic Data
+
+Here, we use SNP data of 733 different patients. Each patient has his/her own SNP data in the form of an individual Variant Calling Format (VCF) file. We preprocess all tis data to generate one common binary matrix.
