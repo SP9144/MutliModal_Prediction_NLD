@@ -1,10 +1,6 @@
 # **Prediction of Parkinson’s Disease using Multimodality based Machine Learning Methods**
 
-
-## **Motivation**
-
-Parkinson's disease (PD) is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. Parkinson's symptoms usually begin gradually and get worse over time. As the disease progresses, people may have difficulty walking and talking. 
-More than 10 million people worldwide are living with PD. Incidence of Parkinson's disease increases with age, but an estimated four percent of people with PD are diagnosed before age 50. 
+Parkinson’s disease, a severe neurodegenerative disorder leading to reduced motor skills, does not currently have a reliable test for accurate diagnosis. Early diagnosis of the disease is critical and therapeutic intervention at this stage could significantly reduce the progression of motor and non-motor deterioration. A holistic view of the disease can be obtained by combining several data modalities. Here, we present Multimodal data based supervised machine learning models, which can accurately predict PD using Clinico-Demographic, Biospecimen and Genetic data obtained from the Parkinson Progression Marker Initiative, with a high accuracy of 90% and an AUC-ROC of 0.98. The multimodal approach is compared with single modality based predictions and the superiority of the former can be attributed to its added supplementary information dimension. The various data modalities are analyzed using different techniques to better understand important features and their correlations.
  
 
 ## **Dataset**
