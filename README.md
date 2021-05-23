@@ -51,4 +51,4 @@ We built predictive models using supervised machine learning for PD diagnosis us
 To train the different models, we performed a Randomized Search over the tunable hyperparameters and performed a 5-fold Cross-Validation to further validate our results.
 
 
-*All results have been compiled and present in the Report. Code relating to the trained models, including the models and their weights are present in the ```./train_code``` folder.*
+*All results have been compiled and present in the Report. Code relating to the trained models, including the models and their weights are present in the ```train_code``` folder.*
